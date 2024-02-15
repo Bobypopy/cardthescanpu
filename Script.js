@@ -3,7 +3,7 @@ const boule = document.querySelector('.boule');
 const ecran = document.querySelector('body');
 
 // Variables pour la physique du jeu
-let masse = 1; // Masse de la boule
+const masse = 1; // Masse de la boule
 let puissance = 0;
 let angle = 0;
 let vitesseX = 0;
